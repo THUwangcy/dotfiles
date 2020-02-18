@@ -1,7 +1,7 @@
 # dotfiles
 My personal dotfiles for vim and zsh.
 
-#### Environments
+### Environments
 
 - Shell: oh-my-zsh
 - Terminal: iTerm2
@@ -11,6 +11,6 @@ My personal dotfiles for vim and zsh.
 - Plugins: [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions), [autojump](autojump)
 - Optional: ruby, [colorls](https://github.com/athityakumar/colorls)
 
-#### Preview
+### Preview
 
 ![terminal](./img/terminal.png)
