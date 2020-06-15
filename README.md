@@ -1,5 +1,5 @@
 # dotfiles
-My personal dotfiles for vim and zsh.
+My personal dotfiles for git, vim, and zsh.
 
 ### Environments
 
