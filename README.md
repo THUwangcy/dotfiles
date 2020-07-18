@@ -5,7 +5,7 @@ My personal dotfiles for git, vim, and zsh.
 
 - Shell: oh-my-zsh
   - Theme: [Powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k)
-  - Plugins: [autosuggestions](https://github.com/zsh-users/zsh-autosuggestions), [autojump](autojump)
+  - Plugins: [autosuggestions](https://github.com/zsh-users/zsh-autosuggestions), [autojump](https://github.com/wting/autojump)
   - Optional: ruby + [colorls](https://github.com/athityakumar/colorls)
 - Terminal: iTerm2
   - Color Scheme: [Solarized Darcula](https://github.com/rickhanlonii/Solarized-Darcula)
@@ -15,3 +15,4 @@ My personal dotfiles for git, vim, and zsh.
 ### Preview
 
 ![terminal](./img/terminal.png)
+
